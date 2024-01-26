@@ -1,4 +1,4 @@
-# expressjs-crash-course
+# expressjs-crash-course-crud-api
 In this crash course we will dive into the Express JS framework for Node.js. A basic CRUD API with EXPRESS JS
 
 Basic members api
