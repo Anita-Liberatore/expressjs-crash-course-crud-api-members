@@ -9,12 +9,6 @@ const members = [{
     name: 'Enea',
     email: 'enealiberatore@hotmail.com',
     status: 'active'
-},
-{
-    id: 3,
-    name: 'Claudia',
-    email: 'claudia@hotmail.com',
-    status: 'active'
 }
 ];
 
